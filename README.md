@@ -8,7 +8,6 @@
 - [Model Evaluation](#model-evaluation)
 - [Insights and Recommendations](#insights-and-recommendations)
 - [Future Work](#future-work)
-- [Acknowledgements](#acknowledgements)
 
 ---
 
@@ -106,4 +105,4 @@ distribution of the target variable, class distribution, and feature correlation
 - Test alternative class imbalance methods, such as undersampling or advanced oversampling techniques.
 
 ---
-[summary Report PDF](https://drive.google.com/file/d/1Htx0p02_tMV1i5DLLIcGbkL8r7EUoivR/view?usp=sharing)
+[Summary Report PDF](https://drive.google.com/file/d/1Htx0p02_tMV1i5DLLIcGbkL8r7EUoivR/view?usp=sharing)
