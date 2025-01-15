@@ -63,7 +63,7 @@ distribution of the target variable, class distribution, and feature correlation
 ## Model Evaluation
 
 ### SVM Results
-![SVM Classification Report]
+SVM Classification Report
 
 - **Accuracy**: 97.8%
 - **Precision (Class 0)**: 98%
@@ -75,7 +75,7 @@ distribution of the target variable, class distribution, and feature correlation
   - F1-Score: 92%
 
 ### Random Forest Results
-![Random Forest Classification Report]
+Random Forest Classification Report
 
 - **Accuracy**: 99.6%
 - **Precision (Class 0)**: 100%
